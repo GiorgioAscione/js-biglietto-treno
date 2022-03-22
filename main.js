@@ -7,8 +7,6 @@ console.log (chilometri);
 let prezzotragitto=chilometri*0.21;
 console.log(prezzotragitto);
 
-let prezzofinale=
-
 if (anni <18){
     alert("Sei sotto i 18 anni d'età")
 }
